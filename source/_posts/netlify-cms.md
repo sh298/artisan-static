@@ -7,3 +7,5 @@ comments: false
 The included files related to Netlify CMS should work out of the box.
 
 Just make sure that your Netlify Identity settings are correctly configured.
+
+This is test page. If you see that you are welcome.
